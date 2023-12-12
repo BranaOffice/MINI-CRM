@@ -1,0 +1,23 @@
+.lrgChk {
+    transform: scale(2);
+}
+
+.customDiv {
+    background-color: white;
+    padding: 20px;
+    /* border-style: solid; */
+    border-radius: 30px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.bg-light-green {
+    background-color: rgba(0, 255, 0, 0.3);
+}
+
+.bg-light-red {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.bg-light-orange {
+    background-color: rgba(245, 79, 7, 0.3);
+}
